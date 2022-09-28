@@ -1,4 +1,3 @@
-# video de ilustracion: https://www.youtube.com/watch?v=ezIj71CX944
 """
 Django settings for sistema project.
 
