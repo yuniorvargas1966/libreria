@@ -1,0 +1,2 @@
+# libreria
+Python, Django,  Mysql
