@@ -5,7 +5,6 @@
     </div>
     <div class="card-body">
         <h4 class="card-title">Libros</h4>
-
         <table class="table">
             <thead>
                 <tr>
@@ -17,7 +16,6 @@
                 </tr>
             </thead>
             <tbody>
-
                 {% for libro in libros %}
                 <tr>
                     <td>{{ libro.id }}</td>
@@ -33,11 +31,8 @@
                 {% endfor %}
             </tbody>
         </table>
-
-
     </div>
     <div class="card-footer text-muted">
-
     </div>
 </div>
 {% endblock %}
